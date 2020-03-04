@@ -1,0 +1,74 @@
+{
+  "Songs":
+  [
+   { "songname":"Bhadrachalamlo_Velasinavanta_Ramayya",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Bhadrachalamlo_Velasinavanta_Ramayya.mp3"
+    },
+
+    { "songname":"Bhongiri_Gutta_meeda_Sri_Ramuni_Jenda",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Bhongiri_Gutta_meeda_Sri_Ramuni_Jenda.mp3"
+    },
+    { "songname":"Devudu_Anjanna_Devude",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Devudu_Anjanna_Devude.mp3"
+    },
+    { "songname":"dhana_dhana_sappulla",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/dhana_dhana_sappulla.mp3"
+    },
+    { "songname":"Entha_challanidamma_E_Kondagattu",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Entha_challanidamma_E_Kondagattu.mp3"
+    },
+    { "songname":"gana_gana_gantalla",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/gana_gana_gantalla.mp3"
+    },
+    { "songname":"Hanuman_Chalisa",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Hanuman_Chalisa.mp3"
+    },
+    { "songname":"Hanuman_Dandakam",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Hanuman_Dandakam.mp3"
+    },
+    { "songname":"Konda_Konallo_Podam_Padara_Kondagattu_Jathara",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Konda_Konallo_Podam_Padara_Kondagattu_Jathara.mp3"
+    },
+    { "songname":"Kondagattu_Guttallo",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Kondagattu_Guttallo.mp3"
+    },
+    { "songname":"lankalo_seethamma",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/lankalo_seethamma.mp3"
+    },
+    { "songname":"Mangala_Harathi_Anduko",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Mangala_Harathi_Anduko.mp3"
+    },
+    { "songname":"namo_anjaneyam_namo",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/namo_anjaneyam_namo.mp3"
+    },
+    { "songname":"ramanamame_neeku_matramu",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/ramanamame_neeku_matramu.mp3"
+    },
+    { "songname":"Sindhura_Rupudavo",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Sindhura_Rupudavo.mp3"
+    },
+    { "songname":"Tholi_Poddu_Koluvu_Theeru",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Tholi_Poddu_Koluvu_Theeru.mp3"
+    },
+    { "songname":"Vandanalu_Vandaname_Anjanna_Neku",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Vandanalu_Vandaname_Anjanna_Neku.mp3"
+    }
+  ]
+}
