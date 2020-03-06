@@ -1,6 +1,54 @@
 {
   "Songs":
   [
+   { "songname":"Anjanna_charithra_part1",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charithra_part1.mp3"
+    },
+     { "songname":"Anjanna_charitra_part2",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part2.mp3"
+    },
+     { "songname":"Anjanna_charitra_part3",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part3.mp3"
+    },
+     { "songname":"Anjanna_charitra_part4",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part4.mp3"
+    },
+     { "songname":"Anjanna_charitra_part5",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part5.mp3"
+    },
+     { "songname":"Anjanna_charitra_part6",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part6.mp3"
+    },
+     { "songname":"Anjanna_charitra_part7",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part7.mp3"
+    },
+     { "songname":"Anjanna_charitra_part8",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part8.mp3"
+    },
+     { "songname":"Anjanna_charitra_part9",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part9.mp3"
+    },
+     { "songname":"Anjanna_charitra_part10",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part10.mp3"
+    },
+     { "songname":"Anjanna_charitra_part11",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part11.mp3"
+    },
+     { "songname":"Anjanna_charitra_part12",
+
+      "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Anjanna_charitra_part12.mp3"
+    },
    { "songname":"Bhadrachalamlo_Velasinavanta_Ramayya",
 
       "songpath":"https://raw.githubusercontent.com/madhukar-godsongs/GodSongs/master/Bhadrachalamlo_Velasinavanta_Ramayya.mp3"
